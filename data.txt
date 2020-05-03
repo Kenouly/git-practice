@@ -1,0 +1,3 @@
+Name: Kenouy
+Age: 32
+Favorite Color: Blue
